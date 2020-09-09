@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ac4d5d3-8f84-4d5a-947f-4a244a00377b/deploy-status)](https://app.netlify.com/sites/verzuzpreview/deploys)
 
 # Verzuz Preview
-The Verzuz Preview app lets users compare two artists' top 20 songs. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) is powered by the [Genius API](https://docs.genius.com/).
+The Verzuz Preview app lets users compare two artists' top 20 songs. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses the [Genius API](https://docs.genius.com/).
 
 ## MVP Goals
 
